@@ -1,0 +1,90 @@
+.tabela {
+    width:100%;
+    background-color:#4682B4;
+    border-radius: 5px;
+} 
+
+.coluna {
+    text-align: center;
+    width: 25%;
+}
+
+.tabela a {
+    color: yellow;
+    text-decoration: none;
+}
+
+.tabela_lojas {
+    border: 0;
+    width: 100%;  
+}
+
+.coluna_lojas {
+    width: 33,3%;
+}
+
+.texto_lojas {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.titulo_lojas {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.texto_inicial {
+    color: #4682B4;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.subtitulos {
+    color: red;
+    font-weight: bold;
+    font-size: 25px;
+    margin: 0;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #4682B4;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    }
+
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h4 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+}
+
+#rodape {
+    text-align: center;
+}
+
+.categorias {
+        width: 100%;
+        display: inline-block;        
+}
+
+.bloco_categoria {
+    display: block;
+    width: 18%;
+}
+
+.bloco_produtos {
+    display: inline-block;
+    border: 5px;
+    margin: 0;
+    padding: 10px;
+    width: 18%;
+    text-align: center;
+}
+
+
+
