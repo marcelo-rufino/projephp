@@ -20,6 +20,9 @@
         <title>Produtos - Influência dos Games</title>
         <link rel="stylesheet" href="./css/style.css">
         <script src="js/index.js"></script>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" 
+        integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" 
+        crossorigin="anonymous">
     </head>
 
         <body>
@@ -29,10 +32,8 @@
     ?>
     <!--Fim do menu-->
 
-        <p class="texto_inicial">Nossos Produtos</p>
-
-        <hr>
-
+    <p class="texto_inicial">Nossos Produtos</p>
+    <hr>
     
     <div class="bloco_categoria">        
     <h3 style="font-weight: bold;">Categorias</h3>
